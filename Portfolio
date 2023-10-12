@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ever Williams - UI/UX Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Ever Williams</h1>
+      <h2>UI/UX Designer</h2>
+      <a href="mailto:ever.williams@example.com">Contact Me</a>
+    </div>
+  </header>
+
+  <main>
+    <section id="hero">
+      <div class="container">
+        <img src="images/filler-image-1.jpg" alt="Filler image">
+        <h2>Creating user-friendly and visually appealing interfaces.</h2>
+        <p>I am a young and ambitious UI/UX designer with a passion for creating user-friendly and visually appealing interfaces. I have a strong understanding of the design process, from user research to wireframing to prototyping. I am also skilled in HTML, CSS, and JavaScript.</p>
+        <a href="#portfolio">View Portfolio</a>
+      </div>
+    </section>
+
+    <section id="portfolio">
+      <h2>Portfolio</h2>
+      <div class="container">
+        <ul class="portfolio-grid">
+          <li>
+            <a href="project1.html">
+              <img src="images/filler-image-2.jpg" alt="Project 1">
+              <h4>Project 1</h4>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+            </a>
+          </li>
+          <li>
+            <a href="project2.html">
+              <img src="images/filler-image-3.jpg" alt="Project 2">
+              <h4>Project 2</h4>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+            </a>
+          </li>
+          <li>
+            <a href="project3.html">
+              <img src="images/filler-image-4.jpg" alt="Project 3">
+              <h4>Project 3</h4>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="about">
+      <h2>About Me</h2>
+      <div class="container">
+        <p>I am a young and ambitious UI/UX designer with a passion for creating user-friendly and visually appealing interfaces. I have a strong understanding of the design process, from user research to wireframing to prototyping. I am also skilled in HTML, CSS, and JavaScript.</p>
+        <p>I am always looking for new challenges and opportunities to learn and grow. I am also passionate about giving back to the community, and I am a volunteer mentor for young designers.</p>
+        <button>Download Resume</button>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>Copyright &copy; 2023 Ever Williams</p>
+    </div>
+  </footer>
+</body>
+</html>
